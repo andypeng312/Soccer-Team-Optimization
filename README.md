@@ -26,7 +26,7 @@ player statistics and their market values. This model is used to select a set
 of desired player statistics that result in an optimal team according to our
 selected objective function and that fit the contraints of our problem.
 
-![](/Images/data_curve_fit.png)
+![](/Images/data_curve_fit.png)  
 A piecewise model was created with a unique curve for each player position
 
 The optimization method was performed in MATLAB with an interior point 
